@@ -31,7 +31,10 @@ None.
 ## Education
 * College of Saint Petersburg State University of Economics (specialized secondary education, specialization: Tourism) 1
 * Saint-Petersburg State University of Industrial Technologies and Design (incomplete higher education, specialization: Automatization of technological processes and management in multi-industry production complexes) 2
-* Training by GoIT (by their telegram-bot)![certificate](https://user-images.githubusercontent.com/93225524/173172591-27f879b2-bf48-4c09-bf85-c5b9a23f2cdc.png)
+* Training by GoIT (by their telegram-bot)![certificate]
+
+
+(https://user-images.githubusercontent.com/93225524/173172591-27f879b2-bf48-4c09-bf85-c5b9a23f2cdc.png)
 
 ## English
 Intermediate, between B1-B2. Nice listening and reading (I watch youtube videos comfortly), writing and speaking can be less perfect because of confusion with complex grammar rules.
