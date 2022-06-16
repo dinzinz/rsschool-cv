@@ -9,15 +9,13 @@
 * [LinkedIn](https://linkedin.com/in/dinz)
 * [Facebook](https://www.facebook.com/dinxinz)
 * [Codewars](https://www.codewars.com/users/dinzinz)
-
-
+* [Sololearn](https://www.sololearn.com/profile/24699044)
 ## About me
 20 y.o. girl with ASD. Likes to work independently with plenty of quiet, private time to concentrate and complete my thinking process. And solve challenging problems. That's why I decided to learn programming.
 
 
 ## Skills
-Basic HTML. 
-
+HTML Basic. Github. Git. Css Basic.
 
 ## Example of code
 ``
