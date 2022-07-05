@@ -34,7 +34,7 @@ None.
 * Training by GoIT (by their telegram-bot)
 
 ![certificate](https://user-images.githubusercontent.com/93225524/173172591-27f879b2-bf48-4c09-bf85-c5b9a23f2cdc.png)
-[cert-1014-24699044.pdf](https://github.com/dinzinz/rsschool-cv/files/9042573/cert-1014-24699044.pdf)
+![cert-1014-24699044](https://user-images.githubusercontent.com/93225524/177230795-6c0d1a25-cd9f-4bc1-97da-e41b188fdec8.jpg)
 
 ## English
 Intermediate, between B1-B2. Nice listening and reading (I watch youtube videos comfortly), writing and speaking can be less perfect because of confusion with complex grammar rules.
