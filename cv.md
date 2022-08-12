@@ -5,7 +5,7 @@
 ## Contacts
 * [Twitter](https://twitter.com/dinzinz)
 * [Discord](https://discordapp.com/users/608689574348193831)
-* [Telegram](https://t.me/dinzinz)
+* [Telegram](https://t.me/catrarsis)
 * [LinkedIn](https://linkedin.com/in/dinz)
 * [Facebook](https://www.facebook.com/dinxinz)
 * [Codewars](https://www.codewars.com/users/dinzinz)
